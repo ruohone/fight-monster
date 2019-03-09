@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gradle/
+.gradle/*
+test/*
+test
+.idea/
+/.idea/
+out
+build
+.gradle/
+gradlew*
+.project
+*/.project
+*/.settings/
+.classpath
+*/.classpath
+classes
+privateconfig/*
